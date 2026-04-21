@@ -12,8 +12,10 @@
 ## Interactive Content
 
 - [Exhibitera](https://github.com/Cosmic-Chatter/Exhibitera) - Exhibitera makes it easy to create, manage, and evaluate your digital exhibits.
-- [TilBuci](https://github.com/lucasjunqueira-var/tilbuci) - TilBuci is a free, open source tool to create interactive content.
+- [Memory Map Toolkit](https://github.com/memorymapper/memorymap-toolkit) - An open source web application for creating interactive maps for history and heritage.
 - [SmartCompanion](https://github.com/smartcompanion-app/audioguide-app) - Open-source mobile audioguide app for museums & tourism.
+- [Storiiies Viewer](https://github.com/CogappLabs/StoriiiesViewer) - An open source online storytelling platform for everyone.
+- [TilBuci](https://github.com/lucasjunqueira-var/tilbuci) - TilBuci is a free, open source tool to create interactive content.
 
 ## Data
 
