@@ -1,7 +1,9 @@
 # Awesome Open Source Museum [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of open source museum software & data
+> A curated list of open source museum software & data initiatives
 
 ## Foreword
+
+A curated list of open source software and data initiatives that enable museums to independently create, manage, and update digital systems for collections, exhibitions, and visitor engagement.
 
 ## Collection Management
 
