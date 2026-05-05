@@ -8,6 +8,7 @@ A curated list of open source software and data initiatives that enable museums 
 ## Collection Management
 
 - [Arches](https://github.com/archesproject/arches) - Arches is a web-based, geospatial information system for cultural heritage inventory and management.
+- [Archivematica](https://github.com/artefactual/archivematica) - Archivematica is a web- and standards-based, open-source application which allows your institution to preserve long-term access to trustworthy, authentic and reliable digital content.
 - [CollectiveAccess](https://github.com/collectiveaccess) - CollectiveAccess is free, open-source software for cataloguing and publishing museum and archival collections.
 - [Omeka S](https://github.com/omeka/omeka-s) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums.
 
@@ -22,3 +23,4 @@ A curated list of open source software and data initiatives that enable museums 
 ## Data
 
 - [Awesome Historical Maps](https://github.com/stark1tty/awesome-historical-maps) - Map collections, search tools, research guides, and resources for exploring historical maps and cartography.
+- [The Museum of Modern Art (MoMA) collection data ](https://github.com/MuseumofModernArt/collection) - An open dataset from the Museum of Modern Art (MoMA) containing detailed records of artworks and artists cataloged in its collection.
