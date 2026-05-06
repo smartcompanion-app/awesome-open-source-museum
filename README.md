@@ -14,6 +14,7 @@ A curated list of open source software and data initiatives that enable museums 
 
 ## Interactive Content
 
+- [Adno](https://github.com/adnodev/adno) - Adno is a web application for viewing, editing and sharing narratives and pathways on static images and IIIF images.
 - [Exhibitera](https://github.com/Cosmic-Chatter/Exhibitera) - Exhibitera makes it easy to create, manage, and evaluate your digital exhibits.
 - [Memory Map Toolkit](https://github.com/memorymapper/memorymap-toolkit) - An open source web application for creating interactive maps for history and heritage.
 - [SmartCompanion](https://github.com/smartcompanion-app/audioguide-app) - Open-source mobile audioguide app for museums & tourism.
