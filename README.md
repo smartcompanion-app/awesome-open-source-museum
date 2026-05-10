@@ -11,6 +11,7 @@ A curated list of open source software and data initiatives that enable museums 
 - [Archivematica](https://github.com/artefactual/archivematica) - Archivematica is a web- and standards-based, open-source application which allows your institution to preserve long-term access to trustworthy, authentic and reliable digital content.
 - [CollectiveAccess](https://github.com/collectiveaccess) - CollectiveAccess is free, open-source software for cataloguing and publishing museum and archival collections.
 - [Omeka S](https://github.com/omeka/omeka-s) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums.
+- [Tainacan](https://github.com/tainacan/tainacan) - Tainacan is a software solution for building, managing and publishing digital repositories of any kind on WordPress.
 
 ## Interactive Content
 
