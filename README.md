@@ -10,7 +10,9 @@ A curated list of open source software and data initiatives that enable museums 
 - [Arches](https://github.com/archesproject/arches) - Arches is a web-based, geospatial information system for cultural heritage inventory and management.
 - [Archivematica](https://github.com/artefactual/archivematica) - Archivematica is a web- and standards-based, open-source application which allows your institution to preserve long-term access to trustworthy, authentic and reliable digital content.
 - [CollectiveAccess](https://github.com/collectiveaccess) - CollectiveAccess is free, open-source software for cataloguing and publishing museum and archival collections.
+- [Dédalo](https://github.com/renderpci/dedalo) - Dédalo is a knowledge management system for tangible and intangible Cultural Heritage, Natural Heritage and Oral History and Memory.
 - [Omeka S](https://github.com/omeka/omeka-s) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums.
+- [Spotlite](https://github.com/projectblacklight/spotlight) - Spotlight enables librarians, curators, and others who are responsible for digital collections to create attractive, feature-rich websites that highlight these collections.
 - [Tainacan](https://github.com/tainacan/tainacan) - Tainacan is a software solution for building, managing and publishing digital repositories of any kind on WordPress.
 
 ## Interactive Content
