@@ -25,6 +25,10 @@ A curated list of open source software and data initiatives that enable museums 
 - [Storiiies Viewer](https://github.com/CogappLabs/StoriiiesViewer) - An open source online storytelling platform for everyone.
 - [TilBuci](https://github.com/lucasjunqueira-var/tilbuci) - TilBuci is a free, open source tool to create interactive content.
 
+## Augmented Reality Content
+
+-[AR-Museum](https://github.com/yourvrexperience/AR-Museum) - Open source platform for adding a layer of augmented reality 3D content to any exhibition.
+
 ## Data
 
 - [Awesome Historical Maps](https://github.com/stark1tty/awesome-historical-maps) - Map collections, search tools, research guides, and resources for exploring historical maps and cartography.
