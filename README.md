@@ -30,4 +30,5 @@ A curated list of open source software and data initiatives that enable museums 
 ## Data
 
 - [Awesome Historical Maps](https://github.com/stark1tty/awesome-historical-maps) - Map collections, search tools, research guides, and resources for exploring historical maps and cartography.
+- [Islam Museum Dataset](https://github.com/amado2k5/islam-museum) - Open knowledge graph of Islamic history behind islam.museum: tens of thousands of sourced records (people, places, events, concepts, objects and texts) as YAML with a free JSON API; data CC0, prose in Arabic, English and Urdu.
 - [The Museum of Modern Art (MoMA) collection data ](https://github.com/MuseumofModernArt/collection) - An open dataset from the Museum of Modern Art (MoMA) containing detailed records of artworks and artists cataloged in its collection.
